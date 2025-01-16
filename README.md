@@ -8,3 +8,10 @@
 
 _texto_
 
+**negrita**
+
+__negrita__
+
+```javascript
+console.log('Hola mundo')
+```
